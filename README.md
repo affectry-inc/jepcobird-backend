@@ -1,3 +1,6 @@
+**jepcobird-bot**に機能統合しました。
+https://github.com/affectry-inc/jepcobird-bot
+
 # jepcobird-backend
 Backend system for jepcobird-bot
 
